@@ -16,7 +16,7 @@
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/PRAM1N/Responsive-Portfolio-Website/main/preview.png)
+![App Screenshot](https://raw.githubusercontent.com/PRAM1N/Portfolio-Website/main/preview.png)
 
 
 ## Authors
